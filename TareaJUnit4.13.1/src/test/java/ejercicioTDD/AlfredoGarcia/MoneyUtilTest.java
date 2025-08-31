@@ -1,8 +1,10 @@
-package service;
+package ejercicioTDD.AlfredoGarcia;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import ejercicioTDD.AlfredoGarcia.MoneyUtil;
 
 //TAREA DE JOSÉ ALFREDO GARCIA RODRÍGUEZ 3490-24-13232
 

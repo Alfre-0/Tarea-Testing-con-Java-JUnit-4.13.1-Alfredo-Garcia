@@ -1,4 +1,4 @@
-package service;
+package ejercicioTDD.AlfredoGarcia;
 
 public class Main {
 
