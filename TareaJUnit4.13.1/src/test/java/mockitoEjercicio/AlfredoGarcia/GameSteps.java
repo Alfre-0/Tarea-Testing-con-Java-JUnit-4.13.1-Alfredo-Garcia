@@ -7,11 +7,9 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
 
-import org.junit.runner.RunWith;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
-import org.mockito.junit.MockitoJUnitRunner;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
@@ -20,7 +18,8 @@ import java.util.Scanner;
 
 import static org.mockito.Mockito.when;
 
-@RunWith(MockitoJUnitRunner.class)
+// TAREA DE JOSÉ ALFREDO GARCIA RODRÍGUEZ 3490-24-13232
+
 public class GameSteps {
 
     public static final int OPTION_ROCK = 0;

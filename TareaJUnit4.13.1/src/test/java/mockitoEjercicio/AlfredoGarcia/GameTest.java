@@ -1,4 +1,5 @@
 package mockitoEjercicio.AlfredoGarcia;
+// TAREA DE JOSÉ ALFREDO GARCIA RODRÍGUEZ
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

@@ -1,3 +1,5 @@
+#Tarea de José Alfredo Garcia Rodríguez
+
 Feature: Game Rock, Paper, or Scissors
 
   Scenario: The user wins when chooses Rock and computer chooses Scissors
